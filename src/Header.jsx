@@ -1,4 +1,4 @@
-import { useState, useEffect } from "React";
+import { useState } from "React";
 
 function Header() {
   const [header, setHeader] = useState(false);
