@@ -263,8 +263,6 @@ p {
 }
 .wrapper {
   width: 1200px;
-
-  border: 1px solid #f9c6be;
 }
 
 .header {
@@ -313,6 +311,8 @@ nav {
   background-color: #efafa6;
   margin-right: 5rem;
   margin-left: 1rem;
+  font-size: 3rem;
+  padding: 2.5rem;
 }
 
 .header.active {
@@ -321,7 +321,7 @@ nav {
 }
 
 img {
-  width: 100%;
+  /* width: 100%; */
   max-width: 30%;
 }
 /* 
