@@ -11,7 +11,7 @@ function Hero() {
         necessitatibus!
       </p>
 
-      <img src={avatar} />
+      <img src={pic} />
     </div>
   );
 }
