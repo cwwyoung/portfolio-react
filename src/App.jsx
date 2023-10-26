@@ -4,6 +4,7 @@ import Header from "./Header";
 import Hero from "./Hero";
 import Work from "./Work";
 import Contact from "./Contact";
+import React from "React";
 
 function App() {
   return (
