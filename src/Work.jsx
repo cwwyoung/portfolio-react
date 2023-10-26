@@ -58,10 +58,14 @@ function Work() {
           </p>
           <ul className="workLinks">
             <li>
-              <a href="https://stridecast.netlify.app/">live site</a>
+              <a href="https://exquisite-pudding-4750e9.netlify.app/">
+                live site
+              </a>
             </li>
             <li>
-              <a href="https://github.com/podcast-planner-project-4">GitHub</a>
+              <a href="https://github.com/cwwyoung/calvin-young-project-3">
+                GitHub
+              </a>
             </li>
           </ul>
           <ul className="workSkills">
