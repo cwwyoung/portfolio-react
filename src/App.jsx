@@ -1,10 +1,9 @@
-import { useState } from "react";
 import "./App.css";
 import Header from "./Header";
 import Hero from "./Hero";
 import Work from "./Work";
 import Contact from "./Contact";
-import React from "React";
+import React from "react";
 
 function App() {
   return (
