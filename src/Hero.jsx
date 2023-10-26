@@ -1,5 +1,4 @@
 import pic from "./assets/unnamed.png";
-import avatar from "./assets/avatar.webp";
 
 function Hero() {
   return (
